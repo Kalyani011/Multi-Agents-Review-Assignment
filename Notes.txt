@@ -1,0 +1,17 @@
+A framework for integrating gesture generation models into interactive conversational agents
+Rajmund Nagy, Taras Kucherenko, Birger Moell, André Pereira, Hedvig Kjellström and Ulysses Bernardet
+
+Autonomous Agents on the Edge of Things
+Timotheus Kampik, Andres Gomez, Andrei Ciortea and Simon Mayer
+
+CHARET: Character-centered Approach to Emotion Tracking in Stories
+Diogo Carvalho, Joana Campos, Manuel Guimarães, Ana Antunes, João Dias and Pedro A. Santos
+
+Learning Index Policies for Restless Bandits with Application to Maternal Healthcare
+Arpita Biswas, Gaurav Aggarwal, Pradeep Varakantham and Milind Tambe
+
+Image Sequence Understanding through Narrative Sensemaking
+Zev Battad and Mei Si
+
+To hold or not to hold? – Reducing Passenger Missed Connections in Airlines using Reinforcement Learning
+Tejasvi Malladi, Karpagam Murugappan, Depak Sudarsanam, Ramasubramanian Suriyanarayanan and Arunchandar Vasan
