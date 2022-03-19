@@ -1,0 +1,34 @@
+https://www.citizensinformation.ie/en/environment/air/air_pollution.html
+https://www.who.int/health-topics/air-pollution#tab=tab_1
+
+https://www.vox.com/energy-and-environment/2019/5/7/18530811/global-power-plants-real-time-pollution-data
+https://urbanemissions.info/blog-pieces/air-monitoring-101/
+There is a mandate for heavy industries to monitor air pollution at the stacks in real time. However, this information is not open for scrutiny or for use in research (for unknown reasons)
+
+https://oizom.com/case-study/gmr-power-plant-pollution-monitoring/
+
+
+
+
+
+
+
+
+
+A framework for integrating gesture generation models into interactive conversational agents
+Rajmund Nagy, Taras Kucherenko, Birger Moell, André Pereira, Hedvig Kjellström and Ulysses Bernardet
+
+Autonomous Agents on the Edge of Things
+Timotheus Kampik, Andres Gomez, Andrei Ciortea and Simon Mayer
+
+CHARET: Character-centered Approach to Emotion Tracking in Stories
+Diogo Carvalho, Joana Campos, Manuel Guimarães, Ana Antunes, João Dias and Pedro A. Santos
+
+Learning Index Policies for Restless Bandits with Application to Maternal Healthcare
+Arpita Biswas, Gaurav Aggarwal, Pradeep Varakantham and Milind Tambe
+
+Image Sequence Understanding through Narrative Sensemaking
+Zev Battad and Mei Si
+
+To hold or not to hold? – Reducing Passenger Missed Connections in Airlines using Reinforcement Learning
+Tejasvi Malladi, Karpagam Murugappan, Depak Sudarsanam, Ramasubramanian Suriyanarayanan and Arunchandar Vasan
